@@ -1,0 +1,42 @@
+header {
+    background-color: darkslategray;
+    background-position: top;
+    font-size: 65px;
+    color: white;
+    text-align: center;
+    padding: 25px 0px 25px 0px;
+}
+
+aside {
+    width: fit-content;
+    float: left;
+    padding: 5px 80px 50px 10px;
+    background-color: lightgray;
+    position: relative;
+}
+
+#citySearch {
+    padding: 50px 0px 10px 0px;
+    text-align: start;
+    font-stretch: wider;
+}
+
+#citySearchBar {
+    align-self: flex-start;
+    padding: 8px 5px 8px 5px;
+    position: relative;
+
+}
+
+#searchButton {
+    padding: 7px 5px 7px 5px;
+    position: absolute;
+}
+
+#weatherDisplay {
+    padding: 50px 0px 20px 400px;
+}
+
+#forecastDisplay {
+    padding: 50px 0px 20px 400px;
+};
