@@ -34,7 +34,11 @@ aside {
 }
 
 #weatherDisplay {
-    padding: 50px 0px 20px 400px;
+    padding: 30px 0px 10px 400px;
+}
+
+p {
+    padding: 0px 0px 5px 400px;
 }
 
 #forecastDisplay {
