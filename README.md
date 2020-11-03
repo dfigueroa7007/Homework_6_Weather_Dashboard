@@ -10,4 +10,4 @@ https://dfigueroa7007.github.io/Homework_6_Weather_Dashboard/
 
 --- Weather Dashboard README ---
 
-<img src="sc.jpg" alt="This is a screencap of the progress thus far..." width="100%" height="100%">
+<img src="images/sc.jpg" alt="This is a screencap of the progress thus far..." width="100%" height="100%">
